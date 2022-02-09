@@ -12,7 +12,7 @@
         <encoding>UTF-8</encoding>
         <springVersion>4.0.2.RELEASE</springVersion>
         <spring-security-version>3.2.4.RELEASE</spring-security-version>
-        <hibernate.version>4.3.0.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <testPath>${project.build.directory}/testOutput.xml</testPath>
         <schema>${project.build.directory}/test-classes/polisy.xsd</schema>
         <templatePath>${project.build.directory}/test-classes/xml.vm</templatePath>
